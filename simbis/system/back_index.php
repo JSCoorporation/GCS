@@ -9,7 +9,7 @@ ob_start();
 <style type="text/css">
     ul>li, a{cursor: pointer;}
     </style>
-<title>SIMBIS USM</title>
+<title>SIMBIS Universitas Semarang</title>
 <link rel="stylesheet" href="<?php echo $bc_theme_url;?>css/style.default.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $bc_theme_url;?>css/bootstrap-fileupload.min.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $bc_theme_url;?>css/bootstrap-timepicker.min.css" type="text/css" />
